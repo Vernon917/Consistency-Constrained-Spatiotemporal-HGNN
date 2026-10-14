@@ -1,2 +1,2 @@
 # Consistency-Constrained-Spatiotemporal-HGNN
-Code for Consistency-Constrained Spatiotemporal Hypergraph Representation Learning for RSVP-EEG Target Decoding 
+The access link for Dataset-I will be provided, where the implementation code will also be released upon acceptance of the manuscript.
